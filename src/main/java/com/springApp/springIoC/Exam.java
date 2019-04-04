@@ -6,6 +6,7 @@ package com.springApp.springIoC;
  * @version 1.0
  */
 public class Exam {
+
     private AnswerCheckerInterface answerChecker;
     private String subject;
 

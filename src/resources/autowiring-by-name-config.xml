@@ -10,7 +10,7 @@
           autowire="byName" scope="prototype">
     </bean>
 
-    <!--<bean id="exam" class="Exam">
+    <!--<bean id="exam" class="com.springApp.springIoC.Exam">
          <property name="answerChecker" ref="answerChecker"/>
     </bean>-->
 

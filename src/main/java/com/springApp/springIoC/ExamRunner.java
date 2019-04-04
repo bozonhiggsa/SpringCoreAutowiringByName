@@ -8,6 +8,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * @version 1.0
  */
 public class ExamRunner {
+
     public static void main(String[] args) {
         ApplicationContext context =
                 new ClassPathXmlApplicationContext("autowiring-by-name-config.xml");
